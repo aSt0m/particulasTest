@@ -183,7 +183,7 @@ transition: 0.2s  0.1s;
 }
 
 .header-main{
-    height: auto;
+    height: 100vh;
     background: #000;
     background: url(../img/Fondo_Moleculas.jpg);
     background-position: center center;
