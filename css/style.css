@@ -263,7 +263,7 @@ transition: 0.2s  0.1s;
     .container-header{
         height: 100%;
         flex-direction: row-reverse;
-        padding-top: 5rem;
+        /* padding-top: 5rem; */
         align-items: center;
         justify-content: space-evenly;
         position: relative;
