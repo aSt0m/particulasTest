@@ -50,10 +50,10 @@ h5{
 
 
 .particles-js-canvas-el{
-    background: rgb(238, 10, 10);
+    background: rgb(59, 61, 136);
 }
 #particles-js{
-    height: 100vh; 
+    height: 112vh; 
     width: 100%;
     position: absolute; 
     z-index: -1;  
@@ -61,6 +61,7 @@ h5{
 }
 @media (min-width: 768px){
     #particles-js {
+        height: 100vh; 
     }
 }
 .header{
